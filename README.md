@@ -1,8 +1,17 @@
+<div align="center">
+
 # HealthCare-dApp
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8+-363636?style=flat-square&logo=solidity)
+![Web3.js](https://img.shields.io/badge/Web3.js-1.0+-F16822?style=flat-square&logo=web3.js)
+![Truffle](https://img.shields.io/badge/Truffle-5.0+-5E464D?style=flat-square&logo=truffle)
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-627EEA?style=flat-square&logo=ethereum)
+![MetaMask](https://img.shields.io/badge/MetaMask-Wallet-F6851B?style=flat-square&logo=metamask)
+![Ganache](https://img.shields.io/badge/Ganache-Local%20Blockchain-E4A663?style=flat-square)
 
 A decentralized application (dApp) for managing patient records and doctor bookings using Ethereum. Developed as part of the **CSE446: Blockchain and Cryptocurrencies** course project.
 
----
+</div>
 
 ## Features
 
@@ -13,7 +22,7 @@ A decentralized application (dApp) for managing patient records and doctor booki
 - **Blockchain Interaction**: Uses MetaMask for blockchain interactions.
 - **Deployment Tools**: Smart contracts deployed with Truffle; Ganache used for local Ethereum blockchain.
 
----
+
 
 ## Environment Setup
 Following commands are tested on Linux.
@@ -60,7 +69,7 @@ If you want more through instructions, please visit the following [Tutorial](htt
    - Copy the private key from Ganache.
    - Import the account in MetaMask using the private key.
 
----
+
 
 ## Installation
 1. Clone the repository.
@@ -80,7 +89,7 @@ If you want more through instructions, please visit the following [Tutorial](htt
     ```
 6. Open the app in your browser at `http://localhost:3000/`.
 
----
+
 
 ## Screenshots
 
@@ -106,10 +115,17 @@ Every time a patient books an appointment, the selected admin gets one ether as 
 Here the doctor can view their schedule and appointments with information like how many patients registered and their age.
 ![Doctor Schedule](Screenshot/schedule_update.png)
 
----
+
 
 ## How to Contribute
 1. Fork the repository.
 2. Push your changes to a new branch.
 3. Create a pull request.
 4. Wait for the pull request to be reviewed.
+
+
+---
+
+<div align="center">
+  <p>⭐ Star this repo if you found it helpful!</p>
+</div>
